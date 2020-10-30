@@ -3,7 +3,7 @@
 
 
 ### A little bit about me
-- 😗 Presently i'm working as inter in Life Fibra ;
+- 😗 Presently i'm working as intern in Life Fibra ;
 - 🎓 I'm studying Information Systems at UNIVEM;
 - 📱 Most of my time i'm working with React Native; 
 - 👯 I’m looking allways looking for something new 🤝;
