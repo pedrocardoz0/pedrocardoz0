@@ -7,7 +7,7 @@
 - 🎓 I'm studying Information Systems at UNIVEM;
 - 📱 Most of my time i'm working with React Native; 
 - 👯 I’m looking allways looking for something new 🤝;
-- 🤔 Allways learning something new ( Now Java );
+- 🤔 Always learning something new ( Now Java );
 - 💬 You can ask whatever you want;
 - 📫 How to contact me: p-cardozo@hotmail.com;
 
