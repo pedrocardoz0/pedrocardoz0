@@ -6,7 +6,7 @@
 - 🎓 I'm studying Information Systems at UNIVEM;
 - 📱 Most of my time i'm working with React Native; 
 - 👯 I’m looking allways looking for something new 🤝;
-- 🤔 Always learning something new ( Now Java );
+- 🤔 Always learning something new ( Now Ruby );
 - 💬 You can ask whatever you want;
 - 📫 How to contact me: p-cardozo@hotmail.com;
 
@@ -28,7 +28,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
 
   <br />
   <br />
