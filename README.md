@@ -1,11 +1,13 @@
 
-## Hello 👋, my name is Pedro
+<h1 align="right">Pedro Cardozo</h1>
 
-### A little bit about me
-- Presently i'm working as Full-Stack Developer at O Real Valor ;
-- I'm studying Information Systems at UNIVEM;
-- Most of my time i'm working with React Native; 
-- I’m looking allways looking for something new;
-- Always learning something new ( Now Golang );
-- You can ask whatever you want;
-- How to contact me: p-cardozo@hotmail.com;
+
+```json
+{
+  "job":      "Full-Stack Developer",
+  "country":  "Brazil",
+  "city":     "Marília (SP)",
+  "stack":    ["TS", "React Native", "ReactJS", "CSS", "JS", "Node.js", "Google Cloud", "..."],
+  "interest": ["Clean Code", "Blockchain", "Rust", "Go", "..."], 
+}
+```
