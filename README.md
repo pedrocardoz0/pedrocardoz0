@@ -8,6 +8,6 @@
   "country":  "Brazil",
   "city":     "Marília (SP)",
   "stack":    ["TS", "React Native", "ReactJS", "CSS", "JS", "Node.js", "Google Cloud", "..."],
-  "interest": ["Clean Code", "Blockchain", "Rust", "Go", "..."], 
+  "interest": ["Clean Code", "Websockets", "Rust", "Go", "..."], 
 }
 ```
