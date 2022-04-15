@@ -7,7 +7,7 @@
   "job":      "Software Developer",
   "country":  "Brazil",
   "city":     "Marília (SP)",
-  "stack":    ["TS", "React Native", "ReactJS", "CSS", "JS", "Node.js", "Google Cloud", "..."],
-  "interest": ["Clean Code", "Websockets", "Rust", "Go", "..."], 
+  "stack":    ["Node.js", "TS", "Solidity", "Google Cloud", "AWS", "ReactJS", "CSS", "JS", "..."],
+  "interest": ["Clean Code", "Blockchain", "Rust", "Go", "..."], 
 }
 ```
