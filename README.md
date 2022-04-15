@@ -4,7 +4,7 @@
 
 ```json
 {
-  "job":      "Full-Stack Developer",
+  "job":      "Software Developer",
   "country":  "Brazil",
   "city":     "Marília (SP)",
   "stack":    ["TS", "React Native", "ReactJS", "CSS", "JS", "Node.js", "Google Cloud", "..."],
