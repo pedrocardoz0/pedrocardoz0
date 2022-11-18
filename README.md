@@ -7,7 +7,7 @@
   "job":      "Blockchain Developer",
   "country":  "Brazil",
   "city":     "Marília (SP)",
-  "stack":    ["Rust", "Solidity", "Node.js", "TS", "AWS", "Google Cloud", "ReactJS", "React Native", "..."],
+  "stack":    ["Rust", "Solidity", "Node.js", "TS", "AWS", "Google Cloud", "React", "SRE", "..."],
   "interest": ["Clean Code", "Blockchain", "Rust", "Go", "..."], 
 }
 ```
