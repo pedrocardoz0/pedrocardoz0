@@ -4,7 +4,7 @@
 
 ```json
 {
-  "job":      "Blockchain Developer",
+  "job":      "SRE",
   "country":  "Brazil",
   "city":     "Marília (SP)",
   "stack":    ["Go", "Solidity", "Rust", "TS", "AWS", "Google Cloud", "React", "SRE", "..."],
