@@ -7,7 +7,8 @@
   "job":      "SRE",
   "country":  "Brazil",
   "city":     "Marília (SP)",
-  "stack":    ["Go", "Solidity", "Rust", "TS", "AWS", "Google Cloud", "React", "SRE", "..."],
-  "interest": ["Clean Code", "Blockchain", "Rust", "Go", "..."], 
+  "stack":    ["Go", "Solidity", "Rust", "TS", "AWS", "Google Cloud", "Terraform", "..."],
+  "interest": ["CI/CD", "O11y", "Perfomance", "Go", "Chaos Eng", "IaaC"],
+  "cultures": ["DevOps", "SRE"], 
 }
 ```
